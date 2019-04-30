@@ -7,5 +7,5 @@ In training data “classes” is the outcome variable in the training set using
 Using the SVM to build up the model.
 
 See the detail in the jupyter notebook.  
-
-If can't loaded, paste the url in this website: https://nbviewer.jupyter.org/
+If can't loaded, go here to view the notebook result:  
+https://nbviewer.jupyter.org/github/thlee-0810/Human-Activity-Recognition/blob/master/HAR_prediction.ipynb
