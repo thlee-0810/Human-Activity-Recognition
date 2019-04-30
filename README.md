@@ -7,3 +7,4 @@ In training data “classes” is the outcome variable in the training set using
 Using the SVM to build up the model.
 
 See the detail in the jupyter notebook.
+If can't loaded, paste the url in this website: https://nbviewer.jupyter.org/
